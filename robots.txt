@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iradstrakh.iradgov.org/sitemap.xml
